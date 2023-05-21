@@ -1,0 +1,11 @@
+Writing crud application(Http Error Handling, returning response)
+Spring security
+(like what is spring security /what is JWT  and implementing JWT to secure our rest services(API))
+JPA and hibernate
+what are custom query methods in jpa/named query
+Mapping in Rest Api
+spring boot with hsql
+*******************************************************************************************************************************
+1.	Spring Boot Rest Api (Http Error Handling, logging using log4j2, Mapping, Unit Testing, Pagination & Sorting)
+2.	Spring Security(JWT Implementation)
+3.	Spring Data JPA
